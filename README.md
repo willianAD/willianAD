@@ -1,20 +1,16 @@
 <img width=100% src="https://camo.githubusercontent.com/ff4c7a40220f3b8cbaf7e7a6770c14642fe2d159167fe5d6489dc89234592225/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d68656164657226666f6e7453697a653d3930"/>
-<img align='right' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/PC.gif" width="230">
 
 <br/>
 
 ### <img src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/Hi.gif" width="29px"> Welcome to my GitHub!&nbsp;
 
-<br/>
-
-### Um pouco sobre mim:
-
+<!-- ### Um pouco sobre mim:
 - :man_technologist: Sou estudante do curso Desenvolvedor Web Full Stack na [@Trybe](https://www.betrybe.com/).
 - :brain: Possuo pós-graduação em Gestão Logística e MBA em Gestão de Pessoas.
 - 💡 Tenho interesse em aprender as linguagens de programação PHP, Java, C#, Android e Python.
 - 💬 Me pergunte qualquer coisa, Ficarei feliz em ajudar.
-- 📫 Por favor, entre em contato se você tiver alguma dúvida.
-
+- 📫 Por favor, entre em contato se você tiver alguma dúvida. -->
 <br/>
 
 ### About me:
@@ -27,7 +23,6 @@
 
 <br/>
 
-## Ferramentas e Tecnologias :computer:
 ## Tools and Technologies :computer:
 
 <br>
@@ -164,7 +159,6 @@
 <br/>
 
 ## Profile stats 📊
-## Estatísticas do Perfil 📊
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=willianAD&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Willian-Afonso :: Stats" />
@@ -174,12 +168,11 @@
 <br>
 
 ## Contact me 💬
-## Contate-me 💬
 
-<img align='left' src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="150">
+<img align='left' src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/Handshake.gif" width="150">
 
 <a href="https://www.linkedin.com/in/willian-afonso-domingues/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  <img src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/png/linkedin.png" width="48px" height="48px">
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/-willian.afonso013@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:willian.afonso013@gmail.com)](mailto:willian.afonso013@gmail.com)
@@ -191,10 +184,6 @@
 
 <div> 
 
-  ![Snake animation](https://github.com/gabrielalventura/gabrielalventura/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/willianAD/willianAD/1b13091f253f90634ae47641b4926ae531cc45d6/assets/png/github-contribution-grid-snake.svg)
 
 </div>
-
-<br/>
-
-<img width=100% src="https://camo.githubusercontent.com/ff4c7a40220f3b8cbaf7e7a6770c14642fe2d159167fe5d6489dc89234592225/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d68656164657226666f6e7453697a653d3930"/>
