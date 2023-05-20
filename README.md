@@ -1,17 +1,7 @@
 <img width=100% src="https://camo.githubusercontent.com/ff4c7a40220f3b8cbaf7e7a6770c14642fe2d159167fe5d6489dc89234592225/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d68656164657226666f6e7453697a653d3930"/>
 <img align='right' src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/PC.gif" width="230">
 
-<br/>
-
 ### <img src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/Hi.gif" width="29px"> Welcome to my GitHub!&nbsp;
-
-<!-- ### Um pouco sobre mim:
-- :man_technologist: Sou estudante do curso Desenvolvedor Web Full Stack na [@Trybe](https://www.betrybe.com/).
-- :brain: Possuo pós-graduação em Gestão Logística e MBA em Gestão de Pessoas.
-- 💡 Tenho interesse em aprender as linguagens de programação PHP, Java, C#, Android e Python.
-- 💬 Me pergunte qualquer coisa, Ficarei feliz em ajudar.
-- 📫 Por favor, entre em contato se você tiver alguma dúvida. -->
-<br/>
 
 ### About me:
 
@@ -21,11 +11,8 @@
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please get in touch if you have any questions.
 
-<br/>
-
 ## Tools and Technologies :computer:
 
-<br>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 	<div class="table-container">
     <h2>Core</h2>
