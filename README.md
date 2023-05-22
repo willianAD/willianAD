@@ -148,8 +148,8 @@
 ## Profile stats 📊
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=willianAD&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Willian-Afonso :: Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianAD&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Willian-Afonso :: Top Langs" />
+  <img src="github-readme-stats-willianad.vercel.app&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Willian-Afonso :: Stats" />
+  <img src="github-readme-stats-willianad.vercel.app&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Willian-Afonso :: Top Langs" />
 </div>
 
 <br>
