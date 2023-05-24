@@ -1,7 +1,7 @@
 <img width=100% src="https://camo.githubusercontent.com/ff4c7a40220f3b8cbaf7e7a6770c14642fe2d159167fe5d6489dc89234592225/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d68656164657226666f6e7453697a653d3930"/>
 <img align='right' src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/PC.gif" width="230">
 
-### <img src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/Hi.gif" width="29px">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1313&background=3DE4FF00&width=435&lines=Ol%C3%A1!+Eu+sou+Willian+Afonso;Bem+vindo+ao+meu+Portif%C3%B3lio.)](https://git.io/typing-svg);
+### <img src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/Hi.gif" width="29px"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1313&background=3DE4FF00&width=435&lines=Ol%C3%A1!+Eu+sou+Willian+Afonso;Bem+vindo+ao+meu+Portif%C3%B3lio.)](https://git.io/typing-svg)
 
 ### About me:
 
