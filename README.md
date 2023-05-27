@@ -2,7 +2,7 @@
 <img align='right' src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/PC.gif" width="230">
 
 ### <img src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/Hi.gif" width="29px">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=FF1111E9&background=3DE4FF00&center=true&vCenter=true&width=500&height=150&lines=Hey!+I'm+Willian+Afonso%2C;Welcome+to+my+GitHub!)](https://willianad.github.io/home-portifolio/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2000&color=FF0000DF&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Hi!+I'm+Willian+Afonso%2C;Welcome+to+my+GitHub!)](https://willianad.github.io/home-portifolio/)
 
 ### About me:
 
