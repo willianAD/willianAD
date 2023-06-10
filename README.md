@@ -164,6 +164,8 @@
   <img src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/png/linkedin.png" width="48px" height="48px">
 </a>
 
+<br>
+
 [![Gmail Badge](https://img.shields.io/badge/-willian.afonso013@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:willian.afonso013@gmail.com)](mailto:willian.afonso013@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512981491309&text=Olá!)](https://api.whatsapp.com/send?phone=5512981491309&text=Olá_Willian!_Encontrei_seu_perfil_no_GitHub!)
 [![GitHub Willian](https://img.shields.io/github/followers/willianAD?label=follow&style=social)](https://github.com/willianAD)
