@@ -1,6 +1,3 @@
-<img width=100% src="https://camo.githubusercontent.com/ff4c7a40220f3b8cbaf7e7a6770c14642fe2d159167fe5d6489dc89234592225/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d68656164657226666f6e7453697a653d3930"/>
-<img align='right' src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/PC.gif" width="230">
-
 ### <img src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/Hi.gif" width="29px">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2000&color=FF0000DF&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Hi!+I'm+Willian+Afonso%2C;Welcome+to+my+GitHub!)](https://willianad.github.io/home-portifolio/)
 
