@@ -1,4 +1,5 @@
 <img align='right' src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/gifs/PC.gif" width="230">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2000&color=FF0000DF&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Hi!+I'm+Willian+Afonso%2C;Welcome+to+my+GitHub!)](https://willianad.github.io/home-portifolio/)
 
 ### About me:
