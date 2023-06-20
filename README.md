@@ -36,6 +36,10 @@
         </td>
         <td>
           <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/png/python.png">
+        </td>
+        <td>
+          <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/png/Linux-Dark.png">
         </td>
         <td>
