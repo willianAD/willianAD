@@ -7,7 +7,7 @@
 - 📖 I'm studying Full-Stack web development at [@Trybe](https://www.betrybe.com/).
 - :man_technologist: Check out my Portfolio at [@Portifolio](https://willianad.github.io/portifolio/).
 - :brain: I have a graduate in Logistics Management and an MBA in People Management.
-- 💡 I am interested in learning PHP, Java, C# and Android programming languages.
+- 💡 I am interested in learning PHP, C# and Android programming languages.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please get in touch if you have any questions.
 
@@ -33,6 +33,10 @@
         <td>
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/png/docker.png">
+        </td>
+	<td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/willianAD/willianAD/main/assets/png/Java.png">
         </td>
         <td>
           <span><b><center></center></b></span>
